@@ -1,6 +1,6 @@
-# Fullstack Assignment <!-- omit in toc -->
+# Fullstack skills showcase Project <!-- omit in toc -->
 
-This project allows de Bijenkorf's Hiring Managers to screen potential Fullstack Developer applicants.
+This project showcases my fullstack skills in creating web apps.
 
 ## Usage
 
