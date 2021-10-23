@@ -46,10 +46,6 @@ NOTES.md
 README.md
 ```
 
-# Pre-requisites
-
-You can open the wireframes in [Draw.io](https://app.diagrams.net/) in your browser or by using the [Draw.io VSCode extension](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
-
 # Goal
 
 Create a straight forward web application that demonstrates knowledge of the following:
@@ -163,11 +159,3 @@ GIVEN user taps "Cancel" button
 WHEN dialog shown
 THEN close dialog
 ```
-
-# Notes
-
-If you have any remarks or observations while working on this assignment you are encouraged submit these along with the assignment in [NOTES.md](./NOTES.md).
-
-# Submitting your code
-
-When you complete the assignment, please push your code to a remote repository or email us a .zip file with your solution. **Please do not fork this repository**.
